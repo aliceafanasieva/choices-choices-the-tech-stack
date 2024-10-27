@@ -1,0 +1,14 @@
+{
+  "name": "choices-choices-the-tech-stack",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^3.x"
+  }
+}
+
