@@ -1,0 +1,5 @@
+# netlify.toml
+[build]
+  command = "yarn generate"  # Of "npm run generate" als je npm gebruikt
+  publish = "dist"           # Geeft aan dat de 'dist' map gepubliceerd moet worden
+  
